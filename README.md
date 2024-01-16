@@ -5,3 +5,6 @@ Both the files deal with advance customer analytics and make use of robust stati
 -- NBD Model
 -- Poisson Regression Model
 -- NBD Regression Model
+-- Zero Inflated Poisson Model
+-- Zero Inflated NBD Model
+-- Zero Inflated NBD Regression Model
