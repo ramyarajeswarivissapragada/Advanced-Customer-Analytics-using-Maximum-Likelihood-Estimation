@@ -85,7 +85,7 @@ Models were rigorously evaluated using:
 - Calculated marketing metrics (reach, frequency, GRP) based on model outputs
 
 ## Usage
-The main analysis is contained in `project-I-group11.ipynb`. To run this analysis:
+The main analysis is contained in `Advance Customer Analytics using various Statistical Models.ipynb`. To run this analysis:
 
 1. Ensure you have the required dependencies installed:
 ```
